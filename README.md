@@ -1,2 +1,2 @@
 # HTML-Guide-for-Beginners
-A Complete HTML guide for beginner Web developers
+This repository holds the all static files for HTML Guide for Beginner-Web Developers
