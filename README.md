@@ -1,2 +1,2 @@
 # HTML-Guide-for-Beginners
-A Complete guide for beginner Web developers
+A Complete HTML guide for beginner Web developers
